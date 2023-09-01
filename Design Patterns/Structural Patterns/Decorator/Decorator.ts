@@ -1,3 +1,5 @@
+// https://refactoring.guru/design-patterns/decorator
+
 interface Component {
     operation(): string
 }
