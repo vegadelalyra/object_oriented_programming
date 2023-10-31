@@ -1,3 +1,6 @@
 [submodule "design_patterns"]
 	path = design_patterns
 	url = https://github.com/vegadelalyra/design_patterns.git
+[submodule "SOLID"]
+	path = SOLID
+	url = https://github.com/vegadelalyra/SOLID.git
